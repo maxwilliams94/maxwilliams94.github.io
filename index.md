@@ -1,5 +1,5 @@
 ---
-title: "Max Williams, PhD Candidate, University of Bristol"
+title: "Max Williams"
 layout: "default"
 ---
 
