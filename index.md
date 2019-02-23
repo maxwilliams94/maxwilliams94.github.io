@@ -1,4 +1,7 @@
-# Website of Max Williams
+---
+title: "Max Williams, PhD Candidate, University of Bristol"
+layout: "default"
+---
 
 # Todo
 1. Add about
