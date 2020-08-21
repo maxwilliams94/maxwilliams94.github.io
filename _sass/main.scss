@@ -1,0 +1,20 @@
+$font-stack: Helvetica, sans-serif;
+$c-white: #FFF;
+$c-black: #000;
+
+$main-bg: $c-white;
+$main-fc: $c-black;
+
+body {
+  font: 100% $font-stack;
+  background-color: $main-bg;
+  color: $main-fc;
+}
+
+a:link {
+  color: $main-fc;
+}
+
+a:visited {
+  color: #999;
+}

@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title> {{ page.title }}</title>
+        <link rel="stylesheet" href="/assets/css/styles.css">
+    </head>
+    <body>
+        <nav>
+        <a class="nav-link" href="{% link index.md %}">Home</a>         
+        <a href="{% link about.md %}">About</a>
+        <a href="https://www.dropbox.com/s/rcx0466fbanrpgk/cv_phd_march19_max_williams.pdf?dl=1" target="_blank">CV</a>
+        </nav>
+        <h1>{{ page.title }}</h1>
+        <section>
+            {{ content }}
+        </section>
+
+       <footer>
+       </footer>
+   </body>
+</html>
