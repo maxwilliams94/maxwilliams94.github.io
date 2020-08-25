@@ -1,9 +1,8 @@
 
 title: "Maxwillia.ms"
 email: me@maxwillia.ms
-description: > 
+description: >
   under construction
-baseurl: ""
 url: ""
 
 # Build Settings
@@ -12,7 +11,6 @@ theme: Minima
  # Where things are
 source              : .
 destination         : ./_site
-collections_dir     : .
 plugins_dir         : _plugins
 layouts_dir         : _layouts
 data_dir            : _data
@@ -33,7 +31,6 @@ markdown_ext        : "markdown,mkdown,mkdn,mkd,md"
 strict_front_matter : false
 
 # Filtering Content
-show_drafts         : null
 limit_posts         : 0
 future              : false
 unpublished         : false
@@ -59,14 +56,12 @@ show_dir_listing    : false
 # Outputting
 permalink           : date
 paginate_path       : /page:num
-timezone            : null
 
 quiet               : false
 verbose             : false
 defaults            : []
 
 liquid:
-  error_mode        : warn
   strict_filters    : false
   strict_variables  : false
 
