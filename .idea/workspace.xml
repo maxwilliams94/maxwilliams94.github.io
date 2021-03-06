@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c7545c5-e1d3-4e38-8922-feb1611b695c" name="Default Changelist" comment="Add navbar horizontal rule">
-      <change afterPath="$PROJECT_DIR$/assets/about.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/banner2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icon_192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/cv_max_williams.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/main.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
@@ -44,11 +42,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1gaqGowHBeEbmgf6XkGpB07cr9i" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -71,7 +73,8 @@
       <workItem from="1598362960686" duration="221000" />
       <workItem from="1598363194774" duration="13987000" />
       <workItem from="1600441165594" duration="36000" />
-      <workItem from="1615049633446" duration="3194000" />
+      <workItem from="1615049633446" duration="3504000" />
+      <workItem from="1615054904587" duration="1170000" />
     </task>
     <task id="LOCAL-00001" summary="Fix posts not being processed (_config.yml)&#10;Expand nav bar and change visuals&#10;todo about page&#10;todo expand default.html">
       <created>1598377833465</created>
@@ -106,6 +109,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Fix posts not being processed (_config.yml)&#10;Expand nav bar and change visuals&#10;todo about page&#10;todo expand default.html" />
     <MESSAGE value="Add navbar horizontal rule" />
     <option name="LAST_COMMIT_MESSAGE" value="Add navbar horizontal rule" />

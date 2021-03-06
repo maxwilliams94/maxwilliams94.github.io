@@ -3,17 +3,17 @@ title: "Max Williams, PhD Candidate"
 layout: "default"
 ---
 <img src="{{ "assets/banner2.jpg" | relative_url }}" alt="diamond {100} surface" style="width:40vw;float:center">
-<p>Max is a PhD Candiate in Computational Modelling at the University of Bristol. He is currently writing-up and expecting to submit his thesis in June 2021.</p>
+<p>I am a PhD Candiate in Computational Modelling at the University of Bristol. I am currently writing up and expecting to submit my thesis in June 2021.</p>
 
-<p>When he isn't writing Fortran or doing data analysis for his PhD, you can find him:</p>
+<p>When I'm not developing my model or doing data analysis for my PhD, you can find me:</p>
 <ul>
-<li>Marathon training</li>
+<li>Training for a marathon</li>
 <li>Playing chess online</li>
-<li>Learning norwegian</li>
-<li>Working on Fortran/Python projects</li>
+<li>Learning Norwegian</li>
+<li>Contributing to <a href="https://github.com/AlexBuccheri/mpilib20" target="_blank">mpilib20</a> (Open MPI library)</li>
 </ul>
 
-<h3>Reading List</h3>
+<h3>Books I'm currently reading:</h3>
 <ul class="book-list">
 <li><i>The Wheel of Time: 3. The Shadow Rising</i> - Robert Jordan</li>
 <li><i>The New Turing Omnibus</i> - Alexander Dewdney</li>
