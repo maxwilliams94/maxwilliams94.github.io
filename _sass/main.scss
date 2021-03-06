@@ -10,8 +10,8 @@ body {
   font: 100% $font-stack;
   background-color: $main-bg;
   color: $main-fc;
-  padding-left: 20vw;
-  padding-right: 20vw;
+  padding-left: 30vw;
+  padding-right: 30vw;
 }
 
 a {
@@ -42,19 +42,29 @@ nav a:hover {
   color: #FFF;
 }
 
-ul.post-list {
+li.post-list {
   list-style-type: none;
   margin: 0;
   padding: 0;
+}
+
+ul.book-list * {
+  list-style: circle;
+  //list-style: none;
+  //background-image: url("/assets/read-book.png");
+  //background-repeat: no-repeat;
+  //background-position: left center;
+  //background-size: 20px;
+  //padding: 20px;
+  // top right bottom left
+  //padding: 3px 0px 3px 30px;
 }
 
 .hidden {
   display: none;
 }
 
-div.nav-right {
-  text-align: right;
+.items-center {
+  justify-items: center;
 }
-div.nav-left {
-  align: left;
-}
+
