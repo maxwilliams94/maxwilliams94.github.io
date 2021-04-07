@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem "kramdown"
+gem "kramdown", ">= 2.3.1"
 gem "minima", "~> 2.5"
 gem "jekyll-theme-primer"
 gem "github-pages", group: :jekyll_plugins
