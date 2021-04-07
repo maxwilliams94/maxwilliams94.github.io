@@ -259,10 +259,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  github-pages
-  jekyll-feed (~> 0.12)
+  github-pages (> 208)
+  jekyll (~> 3)
   jekyll-theme-primer
-  kramdown (>= 2.3.1)
   minima (~> 2.5)
   nokogiri (>= 1.11.0)
 
