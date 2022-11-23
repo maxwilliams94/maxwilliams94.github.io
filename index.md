@@ -22,7 +22,7 @@ layout: "default"
 <li><i>The Mystery of Nils</i> - Werner Skalla</li>
 <li><i>A Philosophy of Software Design</i> - John Ousterhout</li>
 <li><i>Introduction to Algorithms</i> - T. H. Cormen, C. E. Leiserson, R. L. Rivest, C. Stein</li>
-<li><i>Beginning C - Ivor Horton</i></li> -->
+<li><i>Beginning C - Ivor Horton</i></li>
 <li><i>Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow</i> - Aurélien Géron</li>
 </ul>-->
 
