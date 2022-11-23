@@ -16,15 +16,15 @@ layout: "default"
 </ul>
 
 <!--<h3>Books I'm currently reading:</h3>
-<!--<ul class="book-list">
-<!--<li><i>The Wheel of Time: 5. The Fires of Heaven</i> - Robert Jordan</li>
-<!--<li><i>The Phoenix Project</i> - G. Kim, K. Behr, G. Spafford</li>
-<!--<li><i>The Mystery of Nils</i> - Werner Skalla</li>
-<!--<li><i>A Philosophy of Software Design</i> - John Ousterhout</li>
-<!--<li><i>Introduction to Algorithms</i> - T. H. Cormen, C. E. Leiserson, R. L. Rivest, C. Stein</li>
-<!--<li><i>Beginning C - Ivor Horton</i></li> -->
-<!--<li><i>Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow</i> - Aurélien Géron</li>-->
-<!--</ul>
+<ul class="book-list">
+<li><i>The Wheel of Time: 5. The Fires of Heaven</i> - Robert Jordan</li>
+<li><i>The Phoenix Project</i> - G. Kim, K. Behr, G. Spafford</li>
+<li><i>The Mystery of Nils</i> - Werner Skalla</li>
+<li><i>A Philosophy of Software Design</i> - John Ousterhout</li>
+<li><i>Introduction to Algorithms</i> - T. H. Cormen, C. E. Leiserson, R. L. Rivest, C. Stein</li>
+<li><i>Beginning C - Ivor Horton</i></li> -->
+<li><i>Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow</i> - Aurélien Géron</li>
+</ul>-->
 
 <ul class="post-list">
   {% for post in site.posts %}
