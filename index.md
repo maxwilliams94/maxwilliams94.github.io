@@ -3,16 +3,15 @@ title: "Max Williams, PhD"
 layout: "default"
 ---
 <img src="{{ "assets/banner2.jpg" | relative_url }}" alt="diamond {100} surface" style="width:40vw;float:center">
-<p>After completing my PhD in Computational Chemistry in March 2022, I am a Python Engineer at Wiley Edge, on-site at Nomura Holdings.</p>
+<p>After completing my PhD in Computational Chemistry in March 2022, I am Python Developer at Nomura International.</p>
 
 <p>Interests</p>
 <ul>
-<li>Gym</li>
-<li>Running</li>
+<li>Callisthenics</li>
+<li>Climbing/Bouldering</li>
 <li>Online chess</li>
-<li>Finance</li>
-<li>Speaking/Learning Norwegian</li>
-<li>Learning..</li>
+<li>Learning Norwegian</li>
+<li>Hobby development projects</li>
 </ul>
 
 <!--<h3>Books I'm currently reading:</h3>
