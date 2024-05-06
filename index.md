@@ -3,27 +3,13 @@ title: "Max Williams, PhD"
 layout: "default"
 ---
 <img src="{{ "assets/banner2.jpg" | relative_url }}" alt="diamond {100} surface" style="width:40vw;float:center">
-<p>After completing my PhD in Computational Chemistry in March 2022, I am Python Developer at Nomura International.</p>
 
-<p>Interests</p>
-<ul>
-<li>Callisthenics</li>
-<li>Climbing/Bouldering</li>
-<li>Online chess</li>
-<li>Learning Norwegian</li>
-<li>Hobby development projects</li>
-</ul>
+ <p>I began my software development career in mid-2021, joining Wiley-Edge while I finished writing my thesis. After completing my PhD in Computational Chemistry in March 2022, I joined Nomura permanently as an Associate Software Developer in December 2022. As scrum-master and lead developer within the Trading & Operations team, I analyse, architect and deliver projects for Nomura's Structured Rates division and  global risk platform.</p>
 
-<!--<h3>Books I'm currently reading:</h3>
-<ul class="book-list">
-<li><i>The Wheel of Time: 5. The Fires of Heaven</i> - Robert Jordan</li>
-<li><i>The Phoenix Project</i> - G. Kim, K. Behr, G. Spafford</li>
-<li><i>The Mystery of Nils</i> - Werner Skalla</li>
-<li><i>A Philosophy of Software Design</i> - John Ousterhout</li>
-<li><i>Introduction to Algorithms</i> - T. H. Cormen, C. E. Leiserson, R. L. Rivest, C. Stein</li>
-<li><i>Beginning C - Ivor Horton</i></li>
-<li><i>Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow</i> - Aurélien Géron</li>
-</ul>-->
+<p>I strive to continuously improve the wider team's development, release and testing methodologies, leveraging new and upcoming technologies when appropriate. As part of the Global Markets Software Modernisation working group, I volunteer my time to make teams in the wider business aware of containerisation and orchestrationa technologies as well as new CI/CD and IaaC workflows being rolled out for use; providing feedback and working through issues as an early adopter.</p> 
+
+<p>I enjoy going to the gym, climbing, training in Brazilian Ju-Jitsu in my spare time, as well as learning Norwegian and aim to continuously improve my software development understanding. When I have time, I like to play chess online, trying to minimise blundering my queen.</p>
+
 
 <ul class="post-list">
   {% for post in site.posts %}
